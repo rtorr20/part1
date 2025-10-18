@@ -1,0 +1,25 @@
+---
+title: "Civic Problem"
+author: "Roxana Torres"
+date: "2025-10-18"
+output: 
+  html_document:
+    theme: cerulean
+    toc: yes
+    toc_float:
+      collapsed: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## **Civic Problem: Public Transit Challenges in Chicago (CTA)**
+
+Chicago’s public transit system, CTA, is facing a fiscal crisis that could become a major civic problem. With approximately a projected $750 million budget shortfall by 2026, the agency warns that it may need to cut up to 40% of services, including the closure of rail lines, stations, and bus routes. Those reductions would severely limit mobility for thousands of Chicagoans who rely on transit for work, school, and healthcare, especially in neighborhoods with limited transportation alternatives.
+
+The problem goes beyond finances, it is also about equity and access. One in five residents could lose reliable public transportation, disproportionately affecting low-income households, seniors, and students. Many already struggle to balance transportation costs with other basic needs. When fares increase, as proposed in recent plans to raise single-ride prices by .50 cents and monthly passes from $75 to $90, the financial strain worsens.
+
+Riders might have to turn to more expensive or less sustainable options like rideshares, which will cause more inequality issues, and add to increase traffic congestion.The potential service cuts also threaten Chicago’s economic and environmental health. Fewer transit options would push more people to use a car, worsening air pollution and putting the city behind on climate goals. 
+
+Ultimately, the CTA’s fiscal cliff is not just a transportation issue, it is a civic crisis that challenges Chicago’s ability to provide equitable, sustainable, and efficient mobility. Addressing it requires cooperation between city, state, and regional authorities to secure stable funding, streamline operations, and protect affordable access to transit for all residents.
